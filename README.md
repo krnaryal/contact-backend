@@ -1,9 +1,11 @@
 # Contact Backend API
 
-## Preview
+## Tech Stack
 
-Preview the example live on [https://contact-frontend-nextjs.vercel.app](https://contact-frontend-nextjs.vercel.app)
+- NodeJS
+- ExpressJS
+- Mongoose/MongoDB
 
 ## Frontend
 
-Repository [https://github.com/anujkarn002/contact-frontend-nextjs](https://github.com/anujkarn002/contact-frontend-nextjs)
+Repository [https://github.com/krnaryal/contact-frontend](https://github.com/krnaryal/contact-frontend)
